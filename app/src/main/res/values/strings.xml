@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bosket\'s Alimentos</string>
+    <string name="publisher">Team Bosket\'s Alimentos</string>
+    <string name="offline_title">You\'re offline</string>
+    <string name="offline_msg">We couldn\'t reach Bosket\'s Alimentos. Check your internet connection and try again.</string>
+    <string name="retry">Try again</string>
+    <string name="change_server">Change server address</string>
+    <string name="server_dialog_title">Server address</string>
+    <string name="server_dialog_msg">Enter the web address of your Bosket\'s Alimentos site (e.g. https://yourdomain.com — or http://192.168.1.5:8088 for local testing).</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_url">Please enter a valid address starting with http:// or https://</string>
+    <string name="choose_file">Choose a photo or video</string>
+    <string name="notif_channel_name">Community updates</string>
+    <string name="notif_channel_desc">New reactions, comments and buddy requests</string>
+    <string name="notif_title">Bosket\'s Alimentos</string>
+    <string name="download_started">Download started…</string>
+</resources>

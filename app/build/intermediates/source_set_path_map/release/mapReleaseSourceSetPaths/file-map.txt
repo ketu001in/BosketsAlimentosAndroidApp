@@ -1,0 +1,36 @@
+com.bosketsalimentos.app-work-runtime-ktx-2.9.1-0 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\0a70964db473e12abc4afb4e6f8339bc\transformed\work-runtime-ktx-2.9.1\res
+com.bosketsalimentos.app-lifecycle-runtime-2.6.2-1 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\0f42ceda96b76c012648ab7a7b69eb73\transformed\lifecycle-runtime-2.6.2\res
+com.bosketsalimentos.app-emoji2-1.3.0-2 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\139fef1c9d2776d43e782b25c607785b\transformed\emoji2-1.3.0\res
+com.bosketsalimentos.app-room-ktx-2.5.0-3 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\22a9b889f1b3dd475e2425d213483474\transformed\room-ktx-2.5.0\res
+com.bosketsalimentos.app-room-runtime-2.5.0-4 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\2f7d6b4e4231a4ccad8b04e8feedeac0\transformed\room-runtime-2.5.0\res
+com.bosketsalimentos.app-activity-1.7.0-5 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\4908a7e21f735ad80ade8d167a6745ab\transformed\activity-1.7.0\res
+com.bosketsalimentos.app-emoji2-views-helper-1.3.0-6 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\596389614a24512e0232f986350180f8\transformed\emoji2-views-helper-1.3.0\res
+com.bosketsalimentos.app-core-runtime-2.2.0-7 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\res
+com.bosketsalimentos.app-webkit-1.11.0-8 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\5f19e1e9b169c576ed85bc28362b5653\transformed\webkit-1.11.0\res
+com.bosketsalimentos.app-swiperefreshlayout-1.1.0-9 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\610e827d3c2e5e8f4b10c7ca910e2566\transformed\swiperefreshlayout-1.1.0\res
+com.bosketsalimentos.app-lifecycle-process-2.6.2-10 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\64df9306e28eb24aa644527ba1e28127\transformed\lifecycle-process-2.6.2\res
+com.bosketsalimentos.app-startup-runtime-1.1.1-11 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\6ae8239bbe00e974e0b27b30e91720db\transformed\startup-runtime-1.1.1\res
+com.bosketsalimentos.app-lifecycle-livedata-2.6.2-12 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\6f752e43da2363bd101057ab8fb34125\transformed\lifecycle-livedata-2.6.2\res
+com.bosketsalimentos.app-core-1.13.1-13 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\75ea9556da06a2ddba1460016a6e4412\transformed\core-1.13.1\res
+com.bosketsalimentos.app-sqlite-2.3.0-14 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\768b3b9ba2b58d46dd1b4c1a1c4742cd\transformed\sqlite-2.3.0\res
+com.bosketsalimentos.app-savedstate-1.2.1-15 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\786c332627c04ffb06220dec6643a503\transformed\savedstate-1.2.1\res
+com.bosketsalimentos.app-lifecycle-livedata-core-2.6.2-16 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\885ca0e400a6284df1ca8b4612a5ac57\transformed\lifecycle-livedata-core-2.6.2\res
+com.bosketsalimentos.app-appcompat-resources-1.7.0-17 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\9ae29ff85ad2ec3db564df7574b94ee1\transformed\appcompat-resources-1.7.0\res
+com.bosketsalimentos.app-core-ktx-1.13.1-18 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\9be80ed33a50677396df67a8d0901b3f\transformed\core-ktx-1.13.1\res
+com.bosketsalimentos.app-profileinstaller-1.3.1-19 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\a32939e4304f2e550433c222a70792ec\transformed\profileinstaller-1.3.1\res
+com.bosketsalimentos.app-sqlite-framework-2.3.0-20 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\aa381abf1a50b9c59258e8494a185106\transformed\sqlite-framework-2.3.0\res
+com.bosketsalimentos.app-core-splashscreen-1.0.1-21 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\af09f577163a1d88fc71d90a3b64a855\transformed\core-splashscreen-1.0.1\res
+com.bosketsalimentos.app-fragment-1.5.4-22 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\bbbaf732a54ae5049a3d88054c029caf\transformed\fragment-1.5.4\res
+com.bosketsalimentos.app-annotation-experimental-1.4.0-23 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\c3dc1750e8cfef5e4e8e8770a316782c\transformed\annotation-experimental-1.4.0\res
+com.bosketsalimentos.app-appcompat-1.7.0-24 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\c7ceb06cad513c2e720cb3c83575edf6\transformed\appcompat-1.7.0\res
+com.bosketsalimentos.app-lifecycle-viewmodel-savedstate-2.6.2-25 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\d719379196344240970865576dad2ada\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.bosketsalimentos.app-lifecycle-viewmodel-2.6.2-26 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\ed2c56e4d3349707393db2ef7cff0997\transformed\lifecycle-viewmodel-2.6.2\res
+com.bosketsalimentos.app-work-runtime-2.9.1-27 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\f39989df79f37f1016081b3ad771c201\transformed\work-runtime-2.9.1\res
+com.bosketsalimentos.app-lifecycle-service-2.6.2-28 C:\Users\Ketul Shah\.gradle\caches\8.9\transforms\f57207d094bddd71893e19bc4fd0e1a2\transformed\lifecycle-service-2.6.2\res
+com.bosketsalimentos.app-pngs-29 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\build\generated\res\pngs\release
+com.bosketsalimentos.app-resValues-30 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\build\generated\res\resValues\release
+com.bosketsalimentos.app-packageReleaseResources-31 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.bosketsalimentos.app-packageReleaseResources-32 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.bosketsalimentos.app-release-33 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.bosketsalimentos.app-main-34 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\src\main\res
+com.bosketsalimentos.app-release-35 D:\Ketul\Claude_Projects\BosketsAlimentosAndroid\app\src\release\res

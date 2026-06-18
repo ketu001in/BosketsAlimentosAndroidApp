@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bosketsalimentos.app-mergeReleaseResources-31:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ketul Shah\\.gradle\\caches\\8.9\\transforms\\af09f577163a1d88fc71d90a3b64a855\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

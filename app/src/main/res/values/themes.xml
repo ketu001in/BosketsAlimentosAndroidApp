@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Boskets" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_teal</item>
+        <item name="colorPrimaryDark">@color/brand_teal_dark</item>
+        <item name="colorAccent">@color/brand_sea</item>
+        <item name="android:statusBarColor">@color/brand_teal_dark</item>
+        <item name="android:navigationBarColor">@color/brand_teal_dark</item>
+        <item name="android:windowBackground">@color/brand_mint</item>
+    </style>
+
+    <style name="Theme.Boskets.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brand_teal</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_seal</item>
+        <item name="windowSplashScreenAnimationDuration">600</item>
+        <item name="postSplashScreenTheme">@style/Theme.Boskets</item>
+    </style>
+</resources>
