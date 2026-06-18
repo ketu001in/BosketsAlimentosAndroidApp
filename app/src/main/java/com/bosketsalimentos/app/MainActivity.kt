@@ -130,6 +130,8 @@ class MainActivity : AppCompatActivity() {
             mediaPlaybackRequiresUserGesture = true
             allowFileAccess = false
             allowContentAccess = false
+            useWideViewPort = true        // honour <meta name="viewport"> so mobile CSS fires
+            loadWithOverviewMode = true   // scale page to fit screen width on first load
             userAgentString = "$userAgentString BosketsApp/${BuildConfig.VERSION_NAME}"
         }
 
