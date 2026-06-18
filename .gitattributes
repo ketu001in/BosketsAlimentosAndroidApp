@@ -1,0 +1,5 @@
+# Treat APKs and keystores as binary — no line-ending conversion
+*.apk   binary
+*.aab   binary
+*.jks   binary
+*.keystore binary
